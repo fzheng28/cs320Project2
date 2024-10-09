@@ -2,11 +2,11 @@ In this project, your goal is to make a new module, bus, to help people analyze 
 
 A few key features of your module:
 
-search for bus trips by route
-quickly search for bus stops in a rectangle or circle (using a binary tree)
-identify trips on which passengers may bring bikes
-visualize stops, distinguishing which ones are wheelchair accessible
-compare weekend service to weekday service
+- search for bus trips by route
+- quickly search for bus stops in a rectangle or circle (using a binary tree)
+- identify trips on which passengers may bring bikes
+- visualize stops, distinguishing which ones are wheelchair accessible
+- compare weekend service to weekday service
 
 This link contains the problem my script is trying to resolve:
 
